@@ -1,0 +1,214 @@
+  body{width: auto;
+    border: none;
+    margin: 0;
+    
+  }
+  header {
+    background-image: url(../pictures/backgroundimage.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding-bottom: 160px;
+     
+    
+    
+  }
+  .container {
+    width: 1140px;
+    
+    margin: 0 auto;
+    justify-content: center;
+
+  }
+  ul {
+    list-style: none;
+    display: flex;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    margin: 0 30px;
+  }
+  .navbar {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 40px 0;
+  }
+  .logo {
+    width: 30%;
+     padding-right: 0;
+  }
+  nav {
+    width: 50%;
+  }
+  .sign-in-btn {
+    width: 20%;
+
+  }
+ .sign-in-btn>button {
+    background-color: #ff5f60;
+    border-radius: 20px;
+    font-size: 18px;
+    margin: 0 40px;
+    display: inline-block;
+    border-style: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+
+}
+
+ .banner {
+  display: flex;
+  padding: 100 0 ;
+ }
+  .banner-text> h1 {
+    font-size: 40px;
+    color: white;
+    ;
+    margin: 30px;
+
+
+ }
+ .banner-text>a>button{
+  font-size: 15px;
+  color:white;
+  background-color: #ff5f60;
+  border-radius: 20px;
+  margin-top: 30px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 15px;
+  padding-left: 15px;
+  font-family: 'Raleway', sans-serif;
+
+ }
+  
+ .banner-text> p {
+  font-size: 17px;
+  color: white;
+   align-items: center;
+  justify-content: center;
+  font-weight: 500;
+  line-height: 25px;
+  margin: 30px;
+  font-family: 'Raleway', sans-serif;
+
+ }
+ .banner-text {
+  width: 47% ;
+  margin: 0;
+ }
+ .bannner-img {
+  width: 50%;
+ }
+ .bannner-img >img{
+  width: 100%;
+ }
+ .Education {
+   margin-top: 250px;
+    
+   
+   }
+   .education-details {
+    display: flex;
+    justify-content: space-between;
+    
+
+   }
+   
+ 
+ .education-img> {
+  width: 40%;
+   
+  
+}
+ 
+ .education-text {
+  
+   width: 47%;
+   
+
+ }
+
+  
+  
+ .education-text >h1>{
+  font-size: 36px;
+  text-align: center;
+   
+  
+ }
+ .education-text>p{ 
+  font-family: 'Raleway', sans-serif;
+
+ }
+ 
+  
+
+ .education-details >text {
+   
+  
+  font-size: 17px;
+ }
+ .education-text>a{
+  font-size: 16px;
+   color: white;
+   border-radius: 20px;
+   margin: 0px;
+    
+ }
+  
+ 
+  
+ .University-improve {
+  margin-top: 200px;
+  align-items: center;
+ }
+  
+ .ed-details {
+  display: flex;
+  justify-content: space-between;
+ }
+ .ed-text {
+  width: 47%;
+  text-align:start;
+  line-height: 30px;
+  
+ }
+ .ed-details> img {
+  width: 50%;
+ }
+  
+  
+ .ed-text >p{
+  font-weight: 500;
+  text-align:justify;
+  line-height: 20px;
+  font-family: 'Raleway', sans-serif;
+ }
+ .ed-text{
+  width: 50%;
+   
+ }
+ .ed-text>a{
+  margin: 0px;
+  
+  
+  
+ }
+  a>button {
+    color: white;
+    background-color: #ff5f60;
+    border-style: none;
+    border-radius: 25px;
+    font-size: 17px;
+    padding: 10px 15px;
+    font-family: 'Raleway', sans-serif;
+  }
+ 
+
+  
+  
